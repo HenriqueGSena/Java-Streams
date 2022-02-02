@@ -30,6 +30,8 @@ public class program {
                 list.add(new employees(fields[0], fields[1], Double.parseDouble(fields[2])));
 			    line = br.readLine();
             }
+
+            
         
         } catch (IOException e) {
 
